@@ -33,18 +33,8 @@
     },
     "dependencies": {
         "async": "^2.6.1",
-<<<<<<< HEAD
-<<<<<<< HEAD
         "base58-native": "git://github.com/deckar01/node-base58.git",
-        "bignumber.js": "^7.2.1",
-=======
-        "base58-native": "^0.1.4",
-        "bignum": "git://github.com/lejacobroy/papaye-node-bignum.git",
->>>>>>> parent of e58801b... Chnage from bignum to bignumber.js
-=======
-        "base58-native": "^0.1.4",
-        "bignum": "git://github.com/lejacobroy/papaye-node-bignum.git",
->>>>>>> parent of e58801b... Chnage from bignum to bignumber.js
+        "bignum": "^0.12.5",
         "multi-hashing": "git://github.com/lejacobroy/papaye-node-multi-hashing.git"
     },
     "engines": {
