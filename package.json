@@ -34,7 +34,7 @@
     "dependencies": {
         "async": "^2.6.1",
         "base58-native": "git://github.com/deckar01/node-base58.git",
-        "bignum": "^0.12.5",
+        "bignum": "^0.13",
         "multi-hashing": "git://github.com/lejacobroy/papaye-node-multi-hashing.git"
     },
     "engines": {
